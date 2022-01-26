@@ -1,0 +1,7 @@
+<launch>
+	<include file = "$(find launch_test)/launch/arg.launch">
+		
+	</include>
+	
+	
+</launch>
